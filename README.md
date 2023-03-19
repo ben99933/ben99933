@@ -9,7 +9,7 @@
 
 <p align="left">
 <h3>Collaborative Projects</h3>
-<a href="[https://github.com/as6325400/CCUdemo](https://ccudemo.herokuapp.com/)">Course Schedule Generator for CCU</a>
+<a href="https://ccudemo.herokuapp.com/">Course Schedule Generator for CCU</a>
 </p>
 
 <p align="left">
