@@ -3,7 +3,7 @@
   Good understanding of Java, C#. 
   Familiar with version control, OOP and design pattern.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="mailto:yangben999@gmail.com">yangben999@gmail.com</a></h3>
 <p align="left">
 </p>
 
