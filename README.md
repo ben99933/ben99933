@@ -18,8 +18,7 @@
 <p align="left">
 	<h2>Personal Projects</h2>
 	<ul>
-		<a href="https://ben99933.github.io/"></a>
-
+		<a href="https://ben99933.github.io/">My Profile</a>
 	</ul>
 
 </p>
