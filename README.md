@@ -6,6 +6,11 @@
 <h3 align="left">Connect with me: <a href="mailto:yangben999@gmail.com">yangben999@gmail.com</a></h3>
 
 <p align="left">
+<h3>Collaborative Projects</h3>
+<a href="https://github.com/as6325400/CCUdemo">Course Schedule Generator for CCU</a>
+</p>
+
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
