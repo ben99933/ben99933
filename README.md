@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ben99933</h1>
-<h3 align="center">I'm a student in National Chung Cheng University. 2 year of coding experience. Good understanding of Java, C#. Familiar with version control, OOP and design pattern.</h3>
+<h3 align="center">I'm a student in National Chung Cheng University. 2 year of coding experience. 
+  Good understanding of Java, C#. 
+  Familiar with version control, OOP and design pattern.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
