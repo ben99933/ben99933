@@ -11,7 +11,7 @@
 <p align="left">
 	<h2>Collaborative Projects</h2>
 	<ul>
-		<a href="https://ccudemo.herokuapp.com/">My Profile</a>
+		<a href="https://ccudemo.herokuapp.com/">Course Schedule Generator for CCU</a>
 	</ul>
 
 </p>
