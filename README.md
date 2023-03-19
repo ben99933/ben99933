@@ -9,11 +9,18 @@
 <h3 align="left">Connect with me: <a href="mailto:yangben999@gmail.com">yangben999@gmail.com</a></h3>
 
 <p align="left">
-<h2>Collaborative Projects</h2>
-<ul>
-	<a href="https://ccudemo.herokuapp.com/">Course Schedule Generator for CCU</a>
+	<h2>Collaborative Projects</h2>
+	<ul>
+		<a href="https://ccudemo.herokuapp.com/">My Profile</a>
+	</ul>
 
-</ul>
+</p>
+<p align="left">
+	<h2>Personal Projects</h2>
+	<ul>
+		<a href="https://ben99933.github.io/"></a>
+
+	</ul>
 
 </p>
 
@@ -50,11 +57,7 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ben99933&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ben99933&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="0xabdulkhalid"/>
-
-</a>
+	<img src="https://github-readme-stats.vercel.app/api?username=ben99933&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+	<br/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ben99933&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="0xabdulkhalid"/>
 </div>
