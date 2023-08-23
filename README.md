@@ -1,7 +1,7 @@
 
 <h1 align="center">About me</h1>
 <h3 align="left">
-  I'm a student in National Chung Cheng University. 2 year of coding experience. <br/>
+  I'm a student in National Chung Cheng University. 4 year of coding experience. <br/>
   Good understanding of Java, C#. <br/>
   Familiar with version control, OOP and design pattern.<br/>
 </h3>
