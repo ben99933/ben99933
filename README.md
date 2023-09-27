@@ -1,4 +1,5 @@
 <h1 align="center">About me</h1>
+
 <h3 align="left">
   I'm a student in National Chung Cheng University. 4 year of coding experience. <br/>
   Good understanding of Java, C#. <br/>
@@ -24,9 +25,8 @@
 
 
 <h1 align="left">Skills</h1>
+
 <p align="center">
-
-
 - **Languages**:<br/>
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
