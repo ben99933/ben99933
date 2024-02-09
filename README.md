@@ -9,14 +9,7 @@
 <h3 align="left">Connect with me: <a href="mailto:yangben999@gmail.com">yangben999@gmail.com</a></h3>
 
 <p align="left">
-	<h2>Collaborative Projects</h2>
-	<ul>
-		<a href="https://ccudemo.herokuapp.com/">Course Schedule Generator for CCU</a>
-	</ul>
-
-</p>
-<p align="left">
-	<h2>Personal Projects</h2>
+	<h2>My Portfolio</h2>
 	<ul>
 		<a href="https://ben99933.github.io/">My Profile</a>
 	</ul>
