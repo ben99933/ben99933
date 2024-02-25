@@ -1,9 +1,9 @@
 <h1 align="center">About me</h1>
 
 <h3 align="left">
-  I'm a student in National Chung Cheng University. 4 year of coding experience. <br/>
-  Good understanding of Java, C#. <br/>
-  Familiar with version control, OOP and design pattern.<br/>
+Hi, I'm Chi-Lung Yang, a passionate computer science student at National Chung Cheng University. My academic journey has exposed me to various facets of information engineering, including software development, machine learning, and network technology.<br/>
+Thriving on challenges, constantly seeking innovative solutions, and enjoying collaborative efforts with peers. My goal is to grow continually in the information technology field, mastering new technologies, and applying my skills to real-world projects.<br/>
+
 </h3>
 
 <h3 align="left">Connect with me: <a href="mailto:yangben999@gmail.com">yangben999@gmail.com</a></h3>
