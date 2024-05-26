@@ -8,8 +8,9 @@ Thriving on challenges, constantly seeking innovative solutions, and enjoying co
 
 </h3>
 
-<h3 align="left">Connect with me: <a href="mailto:yangben999@gmail.com">yangben999@gmail.com</a></h3>
+<h3 align="left">Read more information about me ...<a href="https://ben99933.github.io/">My Profile</a></h3>
 
+<!--
 <p align="left">
 	<h2>My Portfolio</h2>
 	<ul>
@@ -17,6 +18,7 @@ Thriving on challenges, constantly seeking innovative solutions, and enjoying co
 	</ul>
 
 </p>
+-->
 
 
 <h1 align="left">Skills</h1>
