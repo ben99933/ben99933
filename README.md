@@ -9,7 +9,7 @@ Thriving on challenges, constantly seeking innovative solutions, and enjoying co
 
 </h3>
 
-<h3 align="left">Read more information about me ...<a href="https://ben99933.github.io/">My Profile</a></h3>
+<h3 align="left">Read more information about me ...<a href="https://ben99933.github.io/#/about/AboutMe">My Profile</a></h3>
 
 <!--
 <p align="left">
