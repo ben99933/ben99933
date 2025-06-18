@@ -5,7 +5,6 @@
 Hi, I'm Chi-Lung Yang, a passionate computer science student at National Chung Cheng University. </br>
 My academic journey has exposed me to various facets of information engineering, including software development, machine learning, and network technology.<br/>
 <br/>
-Thriving on challenges, constantly seeking innovative solutions, and enjoying collaborative efforts with peers. My goal is to grow continually in the information technology field, mastering new technologies, and applying my skills to real-world projects.<br/>
 
 </h3>
 
