@@ -2,9 +2,6 @@
 
 <h3 align="left">
 	
-Hi, I'm Chi-Lung Yang, a passionate computer science student at National Chung Cheng University. </br>
-My academic journey has exposed me to various facets of information engineering, including software development, machine learning, and network technology.<br/>
-<br/>
 
 </h3>
 
